@@ -74,8 +74,8 @@ python-programming-mooc-2026/
 
 | Part | Topics Covered | Exercises | Status |
 |------|---------------|-----------|--------|
-| [Part 1](./part01/) | Getting started, variables, print, arithmetic | 1–41 | ✅ Complete |
-| Part 2 | Input, conditionals, more on strings | — | 🔜 Upcoming |
+| [Part 1](./part01/) | Getting started, variables, print, arithmetic | 1–30 | ✅ Complete |
+| Part 2 | Terminology, more on conditionals, loops | 1-22 | ⌛ In progress |
 | Part 3 | Loops, string processing | — | 🔜 Upcoming |
 | Part 4 | Functions, scope | — | 🔜 Upcoming |
 | Part 5 | Lists, tuples, references | — | 🔜 Upcoming |
